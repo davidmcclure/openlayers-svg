@@ -1,0 +1,8 @@
+{
+    "name": "Neatline"
+  , "version": "2.0.0"
+  , "private": false
+  , "devDependencies": {
+      "grunt-shell": ">= 0.1.3"
+  }
+}
