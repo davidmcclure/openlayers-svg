@@ -1,12 +1,16 @@
 
 /* vim: set expandtab tabstop=2 shiftwidth=2 softtabstop=2 cc=76; */
 
-// (c) 2013 David McClure
-// http://dclure.org
+/**
+ * Grunt file.
+ * (c) 2013 David McClure
+ * http://dclure.org
+ */
+
 
 module.exports = function(grunt) {
 
-  // Load custom tasks.
+  // Custom tasks.
   grunt.loadNpmTasks('grunt-shell');
 
   grunt.initConfig({
